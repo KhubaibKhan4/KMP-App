@@ -1,5 +1,6 @@
 # Compose Multiplatform Application
 
+<img src="https://github.com/KhubaibKhan4/KMP-App/blob/master/Screenshot_20230909_234927.png" width="50%" height="50%" />
 ## Before running!
  - check your system with [KDoctor](https://github.com/Kotlin/kdoctor)
  - install JDK 8 on your machine
